@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7C93F3,100:0d1117&height=110&section=header" alt="wave" />
+
 <div align="center">
 
 # Hi, I'm Ivan Vera 👋
@@ -32,24 +34,67 @@ I'm still learning and experimenting — this profile is basically my **public l
 
 ## 🚀 Projects
 
+**My 5 Java exercises**, from the very first `Hello World` to reading user input with `Scanner`.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏭 Servitek
+### 1️⃣ Hola Mundo
 
-Industrial services website focused on presenting a company's services, sectors and projects through a modern web interface.
+First Java program: printing text to the console.
 
-**Focus:** `Web development` `UI` `Responsive design`
+**Focus:** `Java` `System.out` `main`
+
+[`Ejercicio1-HolaMundo` →](https://github.com/ivan99vera1-wq/Ejercicio1-HolaMundo)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 Solca Decoraciones
+### 2️⃣ Variables
 
-Web project for a decoration business, focused on creating a clean and practical online presence.
+Storing and printing different data types in variables.
 
-**Focus:** `Web development` `UI` `Responsive design`
+**Focus:** `Java` `Variables` `Types`
+
+[`Ejercicio2-Variables` →](https://github.com/ivan99vera1-wq/Ejercicio2-Variables)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 3️⃣ Suma
+
+Adding two integers with the `+` operator.
+
+**Focus:** `Java` `Operators` `Result`
+
+[`Ejercicio3-Sumar` →](https://github.com/ivan99vera1-wq/Ejercicio3-Sumar)
+
+</td>
+<td width="50%" valign="top">
+
+### 4️⃣ Calculadora
+
+The 4 basic arithmetic operations in a single program.
+
+**Focus:** `Java` `Operators` `Logic`
+
+[`Ejercicio4-Calculadora` →](https://github.com/ivan99vera1-wq/Ejercicio4-Calculadora)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" width="100%" valign="top">
+
+### 5️⃣ Info de usuario
+
+Reading the user's name with `Scanner` and greeting them back.
+
+**Focus:** `Java` `Scanner` `nextLine()` `Input`
+
+[`Ejercicio5-Info-de-usuario` →](https://github.com/ivan99vera1-wq/Ejercicio5-Info-de-usuario)
 
 </td>
 </tr>
@@ -60,8 +105,9 @@ Web project for a decoration business, focused on creating a clean and practical
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ivan99vera1-wq&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7C93F3&icon_color=7C93F3" alt="Ivan's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan99vera1-wq&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7C93F3" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ivan99vera1-wq&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7C93F3&icon_color=7C93F3" alt="Ivan's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ivan99vera1-wq&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7C93F3" alt="Top languages" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ivan99vera1-wq&theme=github_dark&hide_border=true&background=0d1117&stroke=7C93F3&ring=7C93F3&fire=7C93F3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7C93F3&sideLabels=7C93F3&dates=8B949E" alt="GitHub streak" />
 </p>
 
 ---
