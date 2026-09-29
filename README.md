@@ -113,7 +113,7 @@ Escríbeme por cualquiera de estos canales.
 [![Email](https://img.shields.io/badge/email-ivan99vera1%40gmail.com-3fb950?style=flat-square&logo=gmail&logoColor=white)](mailto:ivan99vera1@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-683%20224%20002-3fb950?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/34683224002)
 [![Instagram](https://img.shields.io/badge/Instagram-@ivanvera7_-3fb950?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ivanvera7_/)
-[![GitHub](https://img.shields.io/badge/GitHub-@ivan99vera1-wq-3fb950?style=flat-square&logo=github&logoColor=white)](https://github.com/ivan99vera1-wq)
+
 
 ---
 
