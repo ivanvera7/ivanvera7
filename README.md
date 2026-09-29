@@ -32,13 +32,13 @@
 
 Soy **Iván**, tengo 27 años, nací en 🇵🇾 **Paraguay** y vivo en **Madrid**. Estoy cursando el **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (FP DAM) en Ilerna, Madrid** y escribo mis primeros programas en **Java**.
 
-Me interesa entender cómo funciona todo por dentro: variables, tipos de datos, flujos de entrada… y también cómo la **inteligencia artificial** acelera el aprendizaje. Uso **Claude** como compañero de proyectos para diseñar, revisar y entender cada línea de código.
+Me interesa entender cómo funciona todo por dentro: variables, tipos de datos, flujos de entrada… y también cómo la **inteligencia artificial** acelera el aprendizaje. Uso la **IA** como compañera de proyectos para diseñar, revisar y entender cada línea de código.
 
 | | | | |
 | --- | --- | --- | --- |
 | **Edad** | 27 años | **Nacionalidad** | Paraguayo 🇵🇾 |
 | **Vivo en** | Madrid, España | **Estudios** | FP DAM — Ilerna |
-| **Enfoque** | Java · SQL · IA | **Idiomas** | ES · GU (guaraní) · EN · PT |
+| **Enfoque** | Java · SQL · IA | **Idiomas** | Español · Guarani · Ingles · Portugues |
 
 ---
 
