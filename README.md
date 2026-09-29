@@ -1,133 +1,138 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7C93F3,100:0d1117&height=110&section=header" alt="wave" />
-
 <div align="center">
 
-# Hi, I'm Ivan Vera 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:3fb950,70:a855f7,100:0d1117&height=110&section=header" alt="aurora" />
 
-### Student Developer · FP DAM · Madrid 🇪🇸
+# Iván Vera
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3200&pause=1000&color=7C93F3&center=true&width=650&lines=Code.+Learn.+Build.+Repeat.;Paraguayan+dev+based+in+Madrid;Java+%C2%B7+SQL+%C2%B7+Web+%C2%B7+AI-assisted)]
+### 27 años · 🇵🇾 Paraguayo · FP DAM · Madrid 🇪🇸
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3400&pause=1000&color=3fb950&center=true&width=680&lines=ivan@vera:~$+./ver_proyectos;Java+%C2%B7+SQL+%C2%B7+TypeScript+%C2%B7+IA;Aprender+construyendo.)](https://ivan99vera1-wq.github.io/Ivanvera-web/)
 
-[![Location](https://img.shields.io/badge/Madrid-Spain-7C93F3?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/ivan99vera1-wq)
-[![Profile views](https://komarev.com/ghpvc/?username=ivan99vera1-wq&color=7C93F3&style=flat-square)](https://github.com/ivan99vera1-wq)
-[![Followers](https://img.shields.io/github/followers/ivan99vera1-wq?style=flat-square&label=Followers&color=7C93F3)](https://github.com/ivan99vera1-wq)
+[![Web en vivo](https://img.shields.io/badge/web-en%20línea-3fb950?style=flat-square)](https://ivan99vera1-wq.github.io/Ivanvera-web/)
+[![Disponible](https://img.shields.io/badge/disponible-para%20proyectos-3fb950?style=flat-square)](https://ivan99vera1-wq.github.io/Ivanvera-web/#contacto)
+[![Madrid](https://img.shields.io/badge/Madrid-Espa%C3%B1a-58a6ff?style=flat-square&logo=googlemaps&logoColor=white)](https://ivan99vera1-wq.github.io/Ivanvera-web/#sobre-mi)
+[![Vistas de perfil](https://komarev.com/ghpvc/?username=ivan99vera1-wq&color=3fb950&style=flat-square)](https://github.com/ivan99vera1-wq)
+[![Seguidores](https://img.shields.io/github/followers/ivan99vera1-wq?style=flat-square&label=Seguidores&color=3fb950)](https://github.com/ivan99vera1-wq)
 
-<img src="https://skillicons.dev/icons?i=java,sql,html,css,js,git,github,vscode&theme=dark" alt="Tech stack" />
+<br>
+
+<a href="https://ivan99vera1-wq.github.io/Ivanvera-web/">
+  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/docs/preview.jpg" alt="Vista previa de la web de Iván Vera" width="820">
+</a>
+
+<sub><b>ivan99vera1-wq.github.io/Ivanvera-web</b> — portafolio estático hecho con HTML, CSS y JS, sin dependencias.</sub>
 
 </div>
 
 ---
 
-## 🧠 Currently learning
+## <img src="https://img.shields.io/badge/-01-3fb950?style=flat-square" height="22" alt="01"> <code>/ sobre mí</code>
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![Web development](https://img.shields.io/badge/Web%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Software fundamentals](https://img.shields.io/badge/Software%20Fundamentals-7C93F3?style=for-the-badge)
-![AI-assisted development](https://img.shields.io/badge/AI--assisted-10A19C?style=for-the-badge&logo=openai&logoColor=white)
+### Quién hay detrás del terminal
 
-I'm still learning and experimenting — this profile is basically my **public learning journey**.
+Soy **Iván**, tengo 27 años, nací en 🇵🇾 **Paraguay** y vivo en **Madrid**. Estoy cursando el **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (FP DAM) en Ilerna, Madrid** y escribo mis primeros programas en **Java**.
+
+Me interesa entender cómo funciona todo por dentro: variables, tipos de datos, flujos de entrada… y también cómo la **inteligencia artificial** acelera el aprendizaje. Uso **Claude** como compañero de proyectos para diseñar, revisar y entender cada línea de código.
+
+| | | | |
+| --- | --- | --- | --- |
+| **Edad** | 27 años | **Nacionalidad** | Paraguayo 🇵🇾 |
+| **Vivo en** | Madrid, España | **Estudios** | FP DAM — Ilerna |
+| **Enfoque** | Java · SQL · IA | **Idiomas** | ES · GU (guaraní) · EN · PT |
 
 ---
 
-## 🚀 Projects
+## <img src="https://img.shields.io/badge/-02-3fb950?style=flat-square" height="22" alt="02"> <code>/ stack &amp; ia</code>
 
-**My 5 Java exercises**, from the very first `Hello World` to reading user input with `Scanner`.
+### Lo que estoy aprendiendo
 
-<table>
-<tr>
-<td width="50%" valign="top">
+![Java 78%](https://img.shields.io/badge/Java-78%25-3fb950?style=flat-square)
+![SQL 55%](https://img.shields.io/badge/SQL-55%25-3fb950?style=flat-square)
+![TypeScript 50%](https://img.shields.io/badge/TypeScript-50%25-3fb950?style=flat-square)
+![HTML / CSS 60%](https://img.shields.io/badge/HTML%20%2F%20CSS-60%25-3fb950?style=flat-square)
 
-### 1️⃣ Hola Mundo
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/assets/logos/java.svg" width="30" alt="Java">
+  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/assets/logos/sql.svg" width="30" alt="SQL">
+  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/assets/logos/typescript.svg" width="30" alt="TypeScript">
+  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/assets/logos/html5.svg" width="30" alt="HTML5">
+  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/assets/logos/css3.svg" width="30" alt="CSS3">
+  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/assets/logos/claude.svg" width="30" alt="Claude">
+  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/assets/logos/chatgpt.svg" width="30" alt="ChatGPT">
+  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/assets/logos/opencode.svg" width="30" alt="opencode">
+  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/assets/logos/github.svg" width="30" alt="GitHub">
+  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/assets/logos/intellij.svg" width="30" alt="IntelliJ">
+</p>
 
-First Java program: printing text to the console.
+> **Uso de IA para proyectos** — Integro la inteligencia artificial en mi forma de trabajar: uso **Claude**, **ChatGPT**, **IntelliJ**, **Visual Studio** y **opencode** para planificar, escribir, comentar y depurar código, entender documentación y convertir errores en lecciones.
+>
+> **La IA no sustituye mi aprendizaje — lo acelera.**
 
-**Focus:** `Java` `System.out` `main`
+![Planificación de ejercicios](https://img.shields.io/badge/Planificación%20de%20ejercicios-262c36?style=flat-square)
+![Code review](https://img.shields.io/badge/Code%20review-262c36?style=flat-square)
+![Explicación de errores](https://img.shields.io/badge/Explicación%20de%20errores-262c36?style=flat-square)
+![Documentación](https://img.shields.io/badge/Documentación-262c36?style=flat-square)
+![Generación de proyectos web](https://img.shields.io/badge/Generación%20de%20proyectos%20web-262c36?style=flat-square)
 
-[`Ejercicio1-HolaMundo` →](https://github.com/ivan99vera1-wq/Ejercicio1-HolaMundo)
+---
 
-</td>
-<td width="50%" valign="top">
+## <img src="https://img.shields.io/badge/-03-3fb950?style=flat-square" height="22" alt="03"> <code>/ proyectos</code>
 
-### 2️⃣ Variables
+### 5 ejercicios de Java + 2 webs en TypeScript
 
-Storing and printing different data types in variables.
+| # | Proyecto | Stack | Enlaces |
+| :-: | --- | --- | --- |
+| 01 | **Hola Mundo** | `Java` | [repo ↗](https://github.com/ivan99vera1-wq/Ejercicio1-HolaMundo) |
+| 02 | **Variables** | `Java` | [repo ↗](https://github.com/ivan99vera1-wq/Ejercicio2-Variables) |
+| 03 | **Sumar** | `Java` | [repo ↗](https://github.com/ivan99vera1-wq/Ejercicio3-Sumar) |
+| 04 | **Calculadora** | `Java` | [repo ↗](https://github.com/ivan99vera1-wq/Ejercicio4-Calculadora) |
+| 05 | **Info de usuario** | `Java` | [repo ↗](https://github.com/ivan99vera1-wq/Ejercicio5-Info-de-usuario) |
+| 06 | **Servitek-web** | `Next.js` `TypeScript` `Tailwind` | [repo ↗](https://github.com/ivan99vera1-wq/servitek-web) · [en vivo ↗](https://servitek.pages.dev) |
+| 07 | **Solca Decoraciones** | `React` `TypeScript` | [repo ↗](https://github.com/ivan99vera1-wq/Solca-decoraciones) · [en vivo ↗](https://solca-decoraciones.vercel.app) |
 
-**Focus:** `Java` `Variables` `Types`
+Cada proyecto es una tarjeta con su snippet de código en la web → [./ver_proyectos](https://ivan99vera1-wq.github.io/Ivanvera-web/#proyectos)
 
-[`Ejercicio2-Variables` →](https://github.com/ivan99vera1-wq/Ejercicio2-Variables)
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## <img src="https://img.shields.io/badge/-04-3fb950?style=flat-square" height="22" alt="04"> <code>/ instagram</code>
 
-### 3️⃣ Suma
+### Mis publicaciones
 
-Adding two integers with the `+` operator.
+Los 4 últimos posts de [@ivanvera7_](https://www.instagram.com/ivanvera7_) incrustados oficialmente en la web.
 
-**Focus:** `Java` `Operators` `Result`
+[![Instagram](https://img.shields.io/badge/-@ivanvera7_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ivanvera7_/)
 
-[`Ejercicio3-Sumar` →](https://github.com/ivan99vera1-wq/Ejercicio3-Sumar)
+---
 
-</td>
-<td width="50%" valign="top">
+## <img src="https://img.shields.io/badge/-05-3fb950?style=flat-square" height="22" alt="05"> <code>/ contacto</code>
 
-### 4️⃣ Calculadora
+### ¿Hablamos?
 
-The 4 basic arithmetic operations in a single program.
+Escríbeme por cualquiera de estos canales.
 
-**Focus:** `Java` `Operators` `Logic`
-
-[`Ejercicio4-Calculadora` →](https://github.com/ivan99vera1-wq/Ejercicio4-Calculadora)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" width="100%" valign="top">
-
-### 5️⃣ Info de usuario
-
-Reading the user's name with `Scanner` and greeting them back.
-
-**Focus:** `Java` `Scanner` `nextLine()` `Input`
-
-[`Ejercicio5-Info-de-usuario` →](https://github.com/ivan99vera1-wq/Ejercicio5-Info-de-usuario)
-
-</td>
-</tr>
-</table>
+[![Email](https://img.shields.io/badge/email-ivan99vera1%40gmail.com-3fb950?style=flat-square&logo=gmail&logoColor=white)](mailto:ivan99vera1@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-683%20224%20002-3fb950?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/34683224002)
+[![Instagram](https://img.shields.io/badge/Instagram-@ivanvera7_-3fb950?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ivanvera7_/)
+[![GitHub](https://img.shields.io/badge/GitHub-@ivan99vera1-wq-3fb950?style=flat-square&logo=github&logoColor=white)](https://github.com/ivan99vera1-wq)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ivan99vera1-wq&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7C93F3&icon_color=7C93F3" alt="Ivan's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ivan99vera1-wq&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7C93F3" alt="Top languages" />
-  <img height="170" src="https://streak-stats.demolab.com?user=ivan99vera1-wq&theme=github_dark&hide_border=true&background=0d1117&stroke=7C93F3&ring=7C93F3&fire=7C93F3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7C93F3&sideLabels=7C93F3&dates=8B949E" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ivan99vera1-wq&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=e6edf3&border_color=262c36&hide_border=true" alt="Estadísticas de GitHub de Iván">
+  <img height="170" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ivan99vera1-wq&layout=compact&bg_color=0d1117&title_color=3fb950&text_color=e6edf3&border_color=262c36&hide_border=true" alt="Lenguajes principales">
+  <img height="170" src="https://streak-stats.demolab.com?user=ivan99vera1-wq&hide_border=true&background=0d1117&stroke=3fb950&ring=3fb950&fire=3fb950&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3fb950&sideLabels=3fb950&dates=8B949E" alt="Racha de GitHub">
 </p>
 
 ---
 
-## 📚 Learning by building
-
-> I believe the best way to learn development is to **build things, break them, understand why they broke and try again.**
-
-I'm currently focused on improving my fundamentals and becoming a better developer **one project at a time.**
-
-<br/>
-
 <div align="center">
 
-### ✨ Code. Learn. Build. Repeat. ✨
+<code>ivan@vera:~$ exit</code>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=800&color=7C93F3&center=true&width=500&lines=Thanks+for+stopping+by!+🌟)]
+<sub>© 2026 Iván Vera · Madrid · Hecho con HTML, CSS, JS y Claude.</sub>
 
-[![Profile views](https://komarev.com/ghpvc/?username=ivan99vera1-wq&color=7C93F3&style=for-the-badge)](https://github.com/ivan99vera1-wq)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7C93F3,100:0d1117&height=110&section=footer" alt="wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:3fb950,70:a855f7,100:0d1117&height=110&section=footer" alt="aurora" />
 
 </div>
