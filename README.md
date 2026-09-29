@@ -6,21 +6,21 @@
 
 ### 27 años · 🇵🇾 Paraguayo · FP DAM · Madrid 🇪🇸
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3400&pause=1000&color=3fb950&center=true&width=680&lines=ivan@vera:~$+./ver_proyectos;Java+%C2%B7+SQL+%C2%B7+TypeScript+%C2%B7+IA;Aprender+construyendo.)](https://ivan99vera1-wq.github.io/Ivanvera-web/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3400&pause=1000&color=3fb950&center=true&width=680&lines=ivan@vera:~$+./ver_proyectos;Java+%C2%B7+SQL+%C2%B7+TypeScript+%C2%B7+IA;Aprender+construyendo.)](https://ivanvera7.github.io/Ivanvera-web/)
 
-[![Web en vivo](https://img.shields.io/badge/web-en%20línea-3fb950?style=flat-square)](https://ivan99vera1-wq.github.io/Ivanvera-web/)
-[![Disponible](https://img.shields.io/badge/disponible-para%20proyectos-3fb950?style=flat-square)](https://ivan99vera1-wq.github.io/Ivanvera-web/#contacto)
-[![Madrid](https://img.shields.io/badge/Madrid-Espa%C3%B1a-58a6ff?style=flat-square&logo=googlemaps&logoColor=white)](https://ivan99vera1-wq.github.io/Ivanvera-web/#sobre-mi)
-[![Vistas de perfil](https://komarev.com/ghpvc/?username=ivan99vera1-wq&color=3fb950&style=flat-square)](https://github.com/ivan99vera1-wq)
-[![Seguidores](https://img.shields.io/github/followers/ivan99vera1-wq?style=flat-square&label=Seguidores&color=3fb950)](https://github.com/ivan99vera1-wq)
+[![Web en vivo](https://img.shields.io/badge/web-en%20línea-3fb950?style=flat-square)](https://ivanvera7.github.io/Ivanvera-web/)
+[![Disponible](https://img.shields.io/badge/disponible-para%20proyectos-3fb950?style=flat-square)](https://ivanvera7.github.io/Ivanvera-web/#contacto)
+[![Madrid](https://img.shields.io/badge/Madrid-Espa%C3%B1a-58a6ff?style=flat-square&logo=googlemaps&logoColor=white)](https://ivanvera7.github.io/Ivanvera-web/#sobre-mi)
+[![Vistas de perfil](https://komarev.com/ghpvc/?username=ivanvera7&color=3fb950&style=flat-square)](https://github.com/ivanvera7)
+[![Seguidores](https://img.shields.io/github/followers/ivanvera7?style=flat-square&label=Seguidores&color=3fb950)](https://github.com/ivanvera7)
 
 <br>
 
-<a href="https://ivan99vera1-wq.github.io/Ivanvera-web/">
-  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/docs/preview.jpg" alt="Vista previa de la web de Iván Vera" width="820">
+<a href="https://ivanvera7.github.io/Ivanvera-web/">
+  <img src="https://raw.githubusercontent.com/ivanvera7/Ivanvera-web/main/docs/preview.jpg" alt="Vista previa de la web de Iván Vera" width="820">
 </a>
 
-<sub><b>ivan99vera1-wq.github.io/Ivanvera-web</b> — portafolio estático hecho con HTML, CSS y JS, sin dependencias.</sub>
+<sub><b>ivanvera7.github.io/Ivanvera-web</b> — portafolio estático hecho con HTML, CSS y JS, sin dependencias.</sub>
 
 </div>
 
@@ -52,16 +52,16 @@ Me interesa entender cómo funciona todo por dentro: variables, tipos de datos, 
 ![HTML / CSS 60%](https://img.shields.io/badge/HTML%20%2F%20CSS-60%25-3fb950?style=flat-square)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/assets/logos/java.svg" width="30" alt="Java">
-  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/assets/logos/sql.svg" width="30" alt="SQL">
-  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/assets/logos/typescript.svg" width="30" alt="TypeScript">
-  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/assets/logos/html5.svg" width="30" alt="HTML5">
-  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/assets/logos/css3.svg" width="30" alt="CSS3">
-  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/assets/logos/claude.svg" width="30" alt="Claude">
-  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/assets/logos/chatgpt.svg" width="30" alt="ChatGPT">
-  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/assets/logos/opencode.svg" width="30" alt="opencode">
-  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/assets/logos/github.svg" width="30" alt="GitHub">
-  <img src="https://raw.githubusercontent.com/ivan99vera1-wq/Ivanvera-web/main/assets/logos/intellij.svg" width="30" alt="IntelliJ">
+  <img src="https://raw.githubusercontent.com/ivanvera7/Ivanvera-web/main/assets/logos/java.svg" width="30" alt="Java">
+  <img src="https://raw.githubusercontent.com/ivanvera7/Ivanvera-web/main/assets/logos/sql.svg" width="30" alt="SQL">
+  <img src="https://raw.githubusercontent.com/ivanvera7/Ivanvera-web/main/assets/logos/typescript.svg" width="30" alt="TypeScript">
+  <img src="https://raw.githubusercontent.com/ivanvera7/Ivanvera-web/main/assets/logos/html5.svg" width="30" alt="HTML5">
+  <img src="https://raw.githubusercontent.com/ivanvera7/Ivanvera-web/main/assets/logos/css3.svg" width="30" alt="CSS3">
+  <img src="https://raw.githubusercontent.com/ivanvera7/Ivanvera-web/main/assets/logos/claude.svg" width="30" alt="Claude">
+  <img src="https://raw.githubusercontent.com/ivanvera7/Ivanvera-web/main/assets/logos/chatgpt.svg" width="30" alt="ChatGPT">
+  <img src="https://raw.githubusercontent.com/ivanvera7/Ivanvera-web/main/assets/logos/opencode.svg" width="30" alt="opencode">
+  <img src="https://raw.githubusercontent.com/ivanvera7/Ivanvera-web/main/assets/logos/github.svg" width="30" alt="GitHub">
+  <img src="https://raw.githubusercontent.com/ivanvera7/Ivanvera-web/main/assets/logos/intellij.svg" width="30" alt="IntelliJ">
 </p>
 
 > **Uso de IA para proyectos** — Integro la inteligencia artificial en mi forma de trabajar: uso **Claude**, **ChatGPT**, **IntelliJ**, **Visual Studio** y **opencode** para planificar, escribir, comentar y depurar código, entender documentación y convertir errores en lecciones.
@@ -82,15 +82,15 @@ Me interesa entender cómo funciona todo por dentro: variables, tipos de datos, 
 
 | # | Proyecto | Stack | Enlaces |
 | :-: | --- | --- | --- |
-| 01 | **Hola Mundo** | `Java` | [repo ↗](https://github.com/ivan99vera1-wq/Ejercicio1-HolaMundo) |
-| 02 | **Variables** | `Java` | [repo ↗](https://github.com/ivan99vera1-wq/Ejercicio2-Variables) |
-| 03 | **Sumar** | `Java` | [repo ↗](https://github.com/ivan99vera1-wq/Ejercicio3-Sumar) |
-| 04 | **Calculadora** | `Java` | [repo ↗](https://github.com/ivan99vera1-wq/Ejercicio4-Calculadora) |
-| 05 | **Info de usuario** | `Java` | [repo ↗](https://github.com/ivan99vera1-wq/Ejercicio5-Info-de-usuario) |
-| 06 | **Servitek-web** | `Next.js` `TypeScript` `Tailwind` | [repo ↗](https://github.com/ivan99vera1-wq/servitek-web) · [en vivo ↗](https://servitek.pages.dev) |
-| 07 | **Solca Decoraciones** | `React` `TypeScript` | [repo ↗](https://github.com/ivan99vera1-wq/Solca-decoraciones) · [en vivo ↗](https://solca-decoraciones.vercel.app) |
+| 01 | **Hola Mundo** | `Java` | [repo ↗](https://github.com/ivanvera7/Ejercicio1-HolaMundo) |
+| 02 | **Variables** | `Java` | [repo ↗](https://github.com/ivanvera7/Ejercicio2-Variables) |
+| 03 | **Sumar** | `Java` | [repo ↗](https://github.com/ivanvera7/Ejercicio3-Sumar) |
+| 04 | **Calculadora** | `Java` | [repo ↗](https://github.com/ivanvera7/Ejercicio4-Calculadora) |
+| 05 | **Info de usuario** | `Java` | [repo ↗](https://github.com/ivanvera7/Ejercicio5-Info-de-usuario) |
+| 06 | **Servitek-web** | `Next.js` `TypeScript` `Tailwind` | [repo ↗](https://github.com/ivanvera7/servitek-web) · [en vivo ↗](https://servitek.pages.dev) |
+| 07 | **Solca Decoraciones** | `React` `TypeScript` | [repo ↗](https://github.com/ivanvera7/Solca-decoraciones) · [en vivo ↗](https://solca-decoraciones.vercel.app) |
 
-Cada proyecto es una tarjeta con su snippet de código en la web → [./ver_proyectos](https://ivan99vera1-wq.github.io/Ivanvera-web/#proyectos)
+Cada proyecto es una tarjeta con su snippet de código en la web → [./ver_proyectos](https://ivanvera7.github.io/Ivanvera-web/#proyectos)
 
 ---
 
@@ -120,9 +120,9 @@ Escríbeme por cualquiera de estos canales.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ivan99vera1-wq&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=e6edf3&border_color=262c36&hide_border=true" alt="Estadísticas de GitHub de Iván">
-  <img height="170" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ivan99vera1-wq&layout=compact&bg_color=0d1117&title_color=3fb950&text_color=e6edf3&border_color=262c36&hide_border=true" alt="Lenguajes principales">
-  <img height="170" src="https://streak-stats.demolab.com?user=ivan99vera1-wq&hide_border=true&background=0d1117&stroke=3fb950&ring=3fb950&fire=3fb950&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3fb950&sideLabels=3fb950&dates=8B949E" alt="Racha de GitHub">
+  <img height="170" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ivanvera7&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=e6edf3&border_color=262c36&hide_border=true" alt="Estadísticas de GitHub de Iván">
+  <img height="170" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ivanvera7&layout=compact&bg_color=0d1117&title_color=3fb950&text_color=e6edf3&border_color=262c36&hide_border=true" alt="Lenguajes principales">
+  <img height="170" src="https://streak-stats.demolab.com?user=ivanvera7&hide_border=true&background=0d1117&stroke=3fb950&ring=3fb950&fire=3fb950&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3fb950&sideLabels=3fb950&dates=8B949E" alt="Racha de GitHub">
 </p>
 
 ---
