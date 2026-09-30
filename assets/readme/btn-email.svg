@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 113 48" width="113" height="48" role="img" aria-label="Email">
+<title>Email</title>
+<style>
+@font-face{font-family:'iv-semi';src:url(data:font/woff2;base64,d09GMgABAAAAAASQABAAAAAACAgAAAQ2AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbgUIcKgZgP1NUQVRaAFQRCAqGTIUoATYCJAMkCxQABCAFgTAHIAwHGzoGUZRNzgQUH4txLIp3qEKFD8Hz/TvNc59kc8JOvezgArCyQOQwfnVW+uqM0/IikpMCs/u/EBbgxDX1o6xBvukXwhOcyN80Kj3LhjCQB1lZBeCoaKoDoJm3fysbKRor95E8Oft8vycCeAEAhULQEGzYEQRw04F+aCNGTZhBYn5VbjGJJcGaMhLRASIRBJDi3KoynIAAgo7CieBEMQEdmEcJNuy4DYG0URf5KfIfou02BIVGmbSj06PAMqywATpaDjGDdihndALcP+FGuuql5mADFdo4GD9nWcQo8VPfZ/SMMQaXCFCqG/9fAt2QYYAAKJ96CwhA+AA40YBENKATqj6npkCA+vyCGhGksCZYIgqFnXhaI4CSADmAICDNbUhDoSQVnjZAwfdO2c7RGQZ4caLQCTCSIIWURgACSr4W+cI5m62xepLzeIkgBhBcAMQDsSDRIAMAb3DyKKkiyvMLIIEFbrfH5XJ7nfpzsbreSS9uCIfDmM+ezVi2QixLrA1JO+8+bBLrSIeVW7tYO47123HCHTqWdubENlm32bfrEGb4/u30Zav8y46daG6t2ZNhLVuWbu1uZa3efb2vaWIuS2psbBSrqalpgVjuFctY5lvuk5VJKxLX0PL2OmOqLvHeYlXABPp2uEOYyz0r24qOc6FlPrNvstKGHlsMXhVFnkQRDDU+aZQXx3sawp09sz26e5Z737NZDU1d5UCjO3TrEpiXb3tsHj0kZnoOXri6z64wyq1ZR86M6jm/aaK/+1kntVg8HPxoSmhAQcGA0OSZxus1ReP9R77yOAelN/915S8f+VuN6tc6M6XtcgdTHoyt/62Z/7f6/u9P4Y/apmS27ttqlP/jX+q+Tn6jfv+/PNkW4KP2Ho4fZuuJDvX+tg7PW1sm+GuLjNdnTh4QKigIDViXhmaL76akR/A9YpN6GikjYrunEZ8008AhccFMUkaNMFJn9rFjH17lsxmVGrrDoas+WvYtlBHQe4nuDExn0FtptW98v7xu26CyjmVozt7Tks+3md174ui+RbkDRvWf12m23Tt+qW+pd4J9zrxOzvxORlvtkjLadmq3Tm+bm+5YSw9fg48ebzW8RQ/f81Hj7W/O79hn2Lyew50Pc3sPGTKrS6e5w2c0ZKa/9mVqKy3rpiPaMSaEPuDPlI5Gh17ZtF1ovmhiz0AH7DjdxAL0AC6o9783EUDBGld6x8Uxg35zatqXAOEZq8YBfP7xwfUEIr9pB9THgB0FgMDP9WtvnQATHLfTvtilBemhXmCQqiTAD/RohPbWGhwCoB0CuNiK01SFgBto7WAeGqK7UtEANAJuomXBix9UaJrcnFi6yQG8DNsuFTcTmEYu+dRSQpAqZlNIDjUUGJ9LIfnxGsYG4yAlFJLNdHIplW6DckrIYZIlqyg9Sk6jvBTL0HB7kRpGUXtKIl1/CQ==) format('woff2');}
+.f-semi{font-family:'iv-semi',sans-serif;}
+
+@media (prefers-reduced-motion: reduce){*{animation:none !important;}}
+</style>
+<rect x=".75" y=".75" width="111.5" height="46.5" rx="10" fill="#111419" stroke="#2b313a" stroke-width="1.5"/>
+<svg x="18" y="14" width="20" height="20" viewBox="0 0 24 24" color="#4cc38a" style="color:#4cc38a"><g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></g></svg>
+<text class="f-semi" x="50" y="29.5" font-size="15" fill="#eceef1">Email</text>
+</svg>
