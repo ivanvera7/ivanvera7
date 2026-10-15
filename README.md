@@ -30,25 +30,9 @@ Integro la inteligencia artificial en mi forma de trabajar: uso **Claude**, **Ch
 
 <br>
 
-<img src="assets/readme/title-projects.svg" width="100%" alt="2 webs en TypeScript + 5 ejercicios de Java">
+<img src="assets/readme/title-projects.svg" width="100%" alt="Kit VibeCoding Pro + 5 ejercicios de Java">
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://servitek.pages.dev"><img src="assets/readme/project-servitek.svg" width="100%" alt="Captura de servitek.pages.dev: electromecánica industrial para plantas que no pueden parar"></a>
-      <h3>Servitek-web</h3>
-      Sitio corporativo de SERVITEK E.A.S., electromecánica industrial en Paraguay. Next.js 14, TypeScript estricto, Tailwind y CI con GitHub Actions.
-      <br><br>
-      <a href="https://servitek.pages.dev"><b>Sitio en vivo ↗</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/ivanvera7/servitek-web">Ver repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://solca-decoraciones.vercel.app"><img src="assets/readme/project-solca.svg" width="100%" alt="Captura de solca-decoraciones.vercel.app: diseñamos espacios que inspiran"></a>
-      <h3>Solca Decoraciones</h3>
-      Web para una empresa de decoraciones en Paraguay. Ya publicada y en línea.
-      <br><br>
-      <a href="https://solca-decoraciones.vercel.app"><b>Sitio en vivo ↗</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/ivanvera7/Solca-decoraciones">Ver repo</a>
-    </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ivanvera7/kit-vibecoding-pro"><img src="assets/readme/project-kit.svg" width="100%" alt="Captura de Kit VibeCoding Pro: herramientas, prompts y método para programar con agentes de IA"></a>
