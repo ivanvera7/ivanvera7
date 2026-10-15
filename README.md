@@ -49,6 +49,19 @@ Integro la inteligencia artificial en mi forma de trabajar: uso **Claude**, **Ch
       <a href="https://solca-decoraciones.vercel.app"><b>Sitio en vivo ↗</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/ivanvera7/Solca-decoraciones">Ver repo</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ivanvera7/kit-vibecoding-pro"><img src="assets/readme/project-kit.svg" width="100%" alt="Captura de Kit VibeCoding Pro: herramientas, prompts y método para programar con agentes de IA"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Kit VibeCoding Pro</h3>
+      Mi kit para programar con agentes de IA en <b>Claude Code</b>: 8 herramientas, 3 prompts listos para pegar y un método de 6 pasos, de la idea al código verificado.
+      <br><br>
+      <code>Superpowers</code> · <code>Context7</code> · <code>RTK</code> · <code>Graphify</code> · <code>Next.js</code>
+      <br><br>
+      <a href="https://github.com/ivanvera7/kit-vibecoding-pro"><b>Ver repo ↗</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/ivanvera7/kit-vibecoding-pro/tree/main/prompts">Prompts</a>&nbsp;&nbsp;·&nbsp;&nbsp;⭐ <a href="https://github.com/ivanvera7/kit-vibecoding-pro/stargazers">Dale una estrella</a>
+    </td>
+  </tr>
 </table>
 
 #### Ejercicios de Java
