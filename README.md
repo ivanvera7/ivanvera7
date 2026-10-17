@@ -47,7 +47,7 @@ Paraguayo en Madrid, estudiante de **FP DAM en Ilerna**. Aprendo **Java** desde 
       <a href="https://servitek.pages.dev"><b>Sitio en vivo ↗</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/ivanvera7/servitek-web">Ver repo</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://solca-decoraciones.vercel.app"><img src="assets/readme/project-solca.svg" width="100%" alt="Captura de solca-decoraciones.vercel.app: decoración y ambientación en Paraguay, diseñamos espacios que inspiran"></a>
+      <a href="https://solca-decoraciones.vercel.app"><img src="assets/readme/project-solca-2026.svg" width="100%" alt="Captura de solca-decoraciones.vercel.app: decoración y ambientación en Paraguay, diseñamos espacios que inspiran"></a>
       <h3>Solca Decoraciones</h3>
       Web para una empresa de decoración y ambientación de eventos en Paraguay.
       <br><br>
