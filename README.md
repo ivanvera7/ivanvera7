@@ -38,6 +38,29 @@ Paraguayo en Madrid, estudiante de **FP DAM en Ilerna**. Aprendo **Java** desde 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://servitek.pages.dev"><img src="assets/readme/project-servitek.svg" width="100%" alt="Captura de servitek.pages.dev: electromecánica industrial para plantas que no pueden parar"></a>
+      <h3>Servitek</h3>
+      Web corporativa de SERVITEK E.A.S., electromecánica industrial en Paraguay.
+      <br><br>
+      <code>Next.js 14</code> <code>TypeScript</code> <code>Tailwind</code> <code>GitHub Actions</code>
+      <br><br>
+      <a href="https://servitek.pages.dev"><b>Sitio en vivo ↗</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/ivanvera7/servitek-web">Ver repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://solca-decoraciones.vercel.app"><img src="assets/readme/project-solca.svg" width="100%" alt="Captura de solca-decoraciones.vercel.app: diseñamos espacios que inspiran"></a>
+      <h3>Solca Decoraciones</h3>
+      Web para una empresa de decoración de interiores en Paraguay.
+      <br><br>
+      <code>Next.js 14</code> <code>TypeScript</code> <code>Tailwind</code> <code>Framer Motion</code>
+      <br><br>
+      <a href="https://solca-decoraciones.vercel.app"><b>Sitio en vivo ↗</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/ivanvera7/Solca-decoraciones">Ver repo</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://github.com/ivanvera7/kit-vibecoding-pro"><img src="assets/readme/project-kit.jpg" width="100%" alt="Portada del Kit VibeCoding Pro: programa con agentes de IA con método"></a>
     </td>
     <td width="50%" valign="top">
