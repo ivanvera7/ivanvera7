@@ -1,5 +1,5 @@
 <a href="https://ivanvera7.github.io/Ivanvera-web/">
-  <img src="assets/readme/header.svg" width="100%" alt="Ivan Vera — Estudiante de FP DAM en Madrid. Java, SQL e IA. Panel de código que ejecuta Ejercicio2-Variables e imprime: Me llamo Ivan, Tengo 27 años, Vivo en Madrid, Mido 1.79 metros.">
+  <img src="assets/readme/hero.webp" width="100%" alt="Grabación de mi web: el nombre Ivan Vera entra y un holograma 3D de partículas verdes forma IV, se aparta del ratón y cambia a </> y a una esfera al hacer clic">
 </a>
 
 <p>
@@ -26,16 +26,20 @@ Integro la inteligencia artificial en mi forma de trabajar: uso **Claude**, **Ch
 
 `Planificación de ejercicios` · `Code review` · `Explicación de errores` · `Documentación` · `Generación de proyectos web`
 
-<img src="assets/readme/stack.svg" width="100%" alt="Nivel actual por lenguaje (autoevaluación): Java 78, SQL 55, TypeScript 50, HTML y CSS 60. Herramientas: Java, SQL, TypeScript, HTML/CSS, Claude, ChatGPT, opencode, GitHub, IntelliJ.">
+<img src="assets/readme/stack.webp" width="100%" alt="Los logos de Java, SQL, TypeScript, HTML/CSS, Claude, ChatGPT, opencode, GitHub e IntelliJ convertidos en hologramas de partículas con sus colores reales; cada uno gira al pasar el ratón">
+
+<sub>En mi web, cada herramienta es un holograma 3D de partículas con sus colores reales.</sub>
+
+**Nivel actual (autoevaluación):** Java `78` · SQL `55` · TypeScript `50` · HTML / CSS `60`
 
 <br>
 
-<img src="assets/readme/title-projects.svg" width="100%" alt="Kit VibeCoding Pro + 5 ejercicios de Java">
+<img src="assets/readme/title-projects.svg" width="100%" alt="Proyectos">
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ivanvera7/kit-vibecoding-pro"><img src="assets/readme/project-kit.svg" width="100%" alt="Captura de Kit VibeCoding Pro: herramientas, prompts y método para programar con agentes de IA"></a>
+      <a href="https://github.com/ivanvera7/kit-vibecoding-pro"><img src="assets/readme/project-kit.jpg" width="100%" alt="Portada del Kit VibeCoding Pro: programa con agentes de IA con método"></a>
     </td>
     <td width="50%" valign="top">
       <h3>Kit VibeCoding Pro</h3>
@@ -79,8 +83,8 @@ Escríbeme por cualquiera de estos canales. **Disponible para proyectos · Madri
 <img src="assets/readme/title-activity.svg" width="100%" alt="Actividad en GitHub">
 
 <p>
-  <img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ivanvera7&show_icons=true&include_all_commits=true&bg_color=0b0d10&title_color=4cc38a&icon_color=4cc38a&text_color=a4acb6&hide_border=true&locale=es" alt="Estadísticas de GitHub de Iván">
-  <img width="49%" src="https://streak-stats.demolab.com?user=ivanvera7&background=0b0d10&hide_border=true&stroke=2b313a&ring=4cc38a&fire=4cc38a&currStreakNum=eceef1&sideNums=eceef1&currStreakLabel=4cc38a&sideLabels=a4acb6&dates=838c97&border_radius=12&locale=es" alt="Racha de contribuciones de Iván">
+  <img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ivanvera7&show_icons=true&include_all_commits=true&bg_color=000000&title_color=3dffa0&icon_color=3dffa0&text_color=a9a9b0&hide_border=true&locale=es" alt="Estadísticas de GitHub de Iván">
+  <img width="49%" src="https://streak-stats.demolab.com?user=ivanvera7&background=000000&hide_border=true&stroke=2a2c31&ring=3dffa0&fire=3dffa0&currStreakNum=ededef&sideNums=ededef&currStreakLabel=3dffa0&sideLabels=a9a9b0&dates=86868e&border_radius=12&locale=es" alt="Racha de contribuciones de Iván">
 </p>
 
 <br>

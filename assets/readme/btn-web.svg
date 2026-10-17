@@ -6,7 +6,7 @@
 
 @media (prefers-reduced-motion: reduce){*{animation:none !important;}}
 </style>
-<rect x=".75" y=".75" width="152.5" height="46.5" rx="10" fill="#4cc38a" stroke="#4cc38a" stroke-width="1.5"/>
-<svg x="18" y="14" width="20" height="20" viewBox="0 0 24 24" color="#04150b" style="color:#04150b"><path d="M7 17 17 7M8.5 7H17v8.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-<text class="f-semi" x="50" y="29.5" font-size="15" fill="#04150b">Ver mi web</text>
+<rect x=".75" y=".75" width="152.5" height="46.5" rx="23.25" fill="#3dffa0" stroke="#3dffa0" stroke-width="1.5"/>
+<svg x="18" y="14" width="20" height="20" viewBox="0 0 24 24" color="#02170c" style="color:#02170c"><path d="M7 17 17 7M8.5 7H17v8.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<text class="f-semi" x="50" y="29.5" font-size="15" fill="#02170c">Ver mi web</text>
 </svg>

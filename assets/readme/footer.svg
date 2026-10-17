@@ -9,9 +9,9 @@
 @media (prefers-reduced-motion: reduce){*{animation:none !important;}}
 </style>
 <defs><clipPath id="card"><rect width="1200" height="112" rx="20"/></clipPath><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.1" fill="#fff" fill-opacity=".07"/></pattern><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity=".3"/></linearGradient><mask id="dotmask"><rect width="1200" height="112" fill="url(#fade)"/></mask></defs>
-<g clip-path="url(#card)"><rect width="1200" height="112" fill="#0b0d10"/><rect width="1200" height="112" fill="url(#dots)" mask="url(#dotmask)"/>
-<text class="f-mono" x="40" y="62" font-size="17"><tspan fill="#4cc38a">ivan@vera</tspan><tspan fill="#a4acb6">:~$ exit</tspan></text><rect class="cb" x="219.4" y="47" width="9" height="19" fill="#4cc38a" opacity="0"/>
-<text class="f-body" x="1160" y="62" font-size="14" fill="#838c97" text-anchor="end">© 2026 Iván Vera · Madrid · Hecho con HTML, CSS, JS y Claude.</text>
+<g clip-path="url(#card)"><rect width="1200" height="112" fill="#000000"/>
+<text class="f-mono" x="40" y="62" font-size="17"><tspan fill="#3dffa0">ivan@vera</tspan><tspan fill="#a9a9b0">:~$ exit</tspan></text><rect class="cb" x="219.4" y="47" width="9" height="19" fill="#3dffa0" opacity="0"/>
+<text class="f-body" x="1160" y="62" font-size="14" fill="#86868e" text-anchor="end">© 2026 Iván Vera · Madrid · Hecho con HTML, CSS, JS y Claude.</text>
 </g>
-<rect x=".75" y=".75" width="1198.5" height="110.5" rx="19.25" fill="none" stroke="#2b313a" stroke-width="1.5"/>
+<rect x=".75" y=".75" width="1198.5" height="110.5" rx="19.25" fill="none" stroke="#2a2c31" stroke-width="1.5"/>
 </svg>
